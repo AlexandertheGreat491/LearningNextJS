@@ -31,7 +31,7 @@ export default function Layout({ children, home }) {
           {/*profile image needs to be updated */}
             <Image
               priority
-              src="/images/profile.jpg"
+              src="/images/myprofile.jpg"
               className={utilStyles.borderCircle}
               height={144}
               width={144}
