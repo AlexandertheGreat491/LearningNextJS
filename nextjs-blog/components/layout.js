@@ -28,6 +28,7 @@ export default function Layout({ children, home }) {
       <header className={styles.header}>
         {home ? (
           <>
+          {/*profile image needs to be updated */}
             <Image
               priority
               src="/images/profile.jpg"
