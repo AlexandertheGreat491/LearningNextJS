@@ -21,7 +21,10 @@ export default function Home({allPostsData}) {
       </Head>
       <section className={utilStyles.headingMd}>
         {/*Your Self Introduction */}
-        <p></p>
+        <p>I am new web developer who is most skilled in the MERN stack and is working on leanring nextjs
+          and Java. I am interests in working in sales and using my coding skills to build
+          applications that improve the lives of people.
+        </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{" "}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
