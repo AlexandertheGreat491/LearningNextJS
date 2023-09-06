@@ -24,9 +24,7 @@ export default function Post({ postData }) {
 }
 
 
-//export default function Post() {
-  //return <Layout>...</Layout>;
-//}
+
 
 // post page now using the getPostData function in getStaticProps to get
 // post data & return it as props
