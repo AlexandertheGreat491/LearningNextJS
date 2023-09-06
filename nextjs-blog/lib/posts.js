@@ -58,6 +58,7 @@ export function getAllPostIds() {
     };
   });
 }
+
 // returns the post based on id
 export function getPostData(id) {
   const fullPath = path.join(postsDirectory, `${id}.md`);
